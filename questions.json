@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Which of this is not an Animal?",
+        "choice1": "Dog",
+        "choice2": "Ball",
+        "choice3": "Elephant",
+        "choice4": "Mouse",
+        "answer": 2
+    },
+    {
+        "question": "Which of these mean 'GOOD-MORNING'?",
+        "choice1": "bonjour",
+        "choice2": "nagode",
+        "choice3": "bon-nuit",
+        "choice4": "aurovuir",
+        "answer": 1
+    },
+    {
+        "question": "Which of this is not a contact sport?",
+        "choice1": "football",
+        "choice2": "basketball",
+        "choice3": "tennis",
+        "choice4": "rugby",
+        "answer": 3
+    }
+]
